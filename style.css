@@ -404,7 +404,7 @@ Hero
   height: 40vh;
   position: relative;
   margin-bottom: 2rem;
-  background: url('html-css-simply-recipes-main (1)/html-css-simply-recipes-main/final/assets/main.jpeg') center/cover no-repeat;
+  background: url('main.jpeg') center/cover no-repeat;
   border-radius: var(--borderRadius);
 }
 .hero-container {
@@ -744,3 +744,4 @@ Recipe Template
   color: var(--primary-500);
   text-transform: capitalize;
 }
+
